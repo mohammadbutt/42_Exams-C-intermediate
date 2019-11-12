@@ -11,6 +11,7 @@ Solutions of the C intermediate exam at 42 Silicon Valley
 |---------------------------------------------------------------|:--------------------------------------------------------:|
 |[equation](level00/equation/subject.en.txt)                    |[:book:](level00/equation/equation.c)                     |
 |[count_of_2](level00/count_of_2/subject.en.txt)                |[:book:](level00/count_of_2/count_of_2.c)                 |
+|[is_anagram](level00/is_anagram/subject.en.txt)                |[:book:](level00/is_anagram/is_anagram.c)                 |
 
 </details>
 
