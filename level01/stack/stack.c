@@ -18,16 +18,18 @@
 
 /*
 ** LIFO - Last in, first out -- Like a stack of plates.
+** Array {last, fourth, third, second, first} could be viewed as following:
+** 
 ** +----------------------+
-** |       Last           |
+** |       last           |
 ** +----------------------+
-** |       Fourth         |
+** |       fourth         |
 ** +----------------------+
-** | 	   Third          |
+** | 	   third          |
 ** +----------------------+
-** |       Second         |
+** |       second         |
 ** +----------------------+
-** |       First          |
+** |       first          |
 ** +----------------------+
 */
 /*
