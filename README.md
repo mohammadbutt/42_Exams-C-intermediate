@@ -23,7 +23,7 @@ Solutions of the C intermediate exam at 42 Silicon Valley
 
 |Problems/Subjects                                              |Code                                                      |
 |---------------------------------------------------------------|:--------------------------------------------------------:|
-|[count_alpha](level01/count_alpha/subject.en.txt)              |[:question:](level01/count_alpha/count_alpha.c)           |
+|[count_alpha](level01/count_alpha/subject.en.txt)              |[:book:](level01/count_alpha/count_alpha.c)           |
 |[height_tree](level01/height_tree/subject.en.txt)              |[:question:](level01/height_tree/height_tree.c)           |
 |[queue](level01/queue/subject.en.txt)                          |[:question:](level01/queue/queue.c)                       |
 |[stack](level01/stack/subject.en.txt)                          |[:book:](level01/stack/stack.c)                           |
