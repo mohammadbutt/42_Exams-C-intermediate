@@ -46,7 +46,6 @@ Solutions of the C intermediate exam at 42 Silicon Valley
 
 ---
 
----
 
 <details>
     <summary>Show Level 3 Questions</summary>
