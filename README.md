@@ -52,7 +52,7 @@ Solutions of the C intermediate exam at 42 Silicon Valley
 
 |Problems/Subjects                                              |Code                                                      |
 |---------------------------------------------------------------|:--------------------------------------------------------:|
-|[width_tree.c](level03/width_tree/subject.en.txt)              |[:book:](level02/width_tree/width_tree.c)                 |
+|[width_tree.c](level03/width_tree/subject.en.txt)              |[:question:](level02/width_tree/width_tree.c)             |
 
 
 </details>
