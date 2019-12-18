@@ -13,6 +13,7 @@ Solutions of the C intermediate exam at 42 Silicon Valley
 |[equation](level00/equation/subject.en.txt)                    |[:book:](level00/equation/equation.c)                     |
 |[find_pivot](level00/find_pivot/subject.en.txt)                |[:book:](level00/find_pivot/find_pivot.c)                 |
 |[is_anagram](level00/is_anagram/subject.en.txt)                |[:book:](level00/is_anagram/is_anagram_simplified.c)      |
+|[print_doublon](level00/print_doublon/subject.en.txt)          |[:book:](level00/print_doublon/print_doublon.c)           |
 
 </details>
 
