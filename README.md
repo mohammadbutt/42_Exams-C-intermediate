@@ -39,7 +39,7 @@ Solutions of the C intermediate exam at 42 Silicon Valley
 
 |Problems/Subjects                                              |Code                                                      |
 |---------------------------------------------------------------|:--------------------------------------------------------:|
-|[is_looping.c](level02/is_looping/subject.en.txt)              |[:book:](level02/is_looping.c/is_looping.c)               |
+|[is_looping.c](level02/is_looping/subject.en.txt)              |[:book:](level02/is_looping/is_looping.c)                 |
 |[ord_alphlong](level02/ord_alphlong/subject.en.txt)            |[:question:](level02/ord_alphlong/ord_alphlong.c)         |
 
 
